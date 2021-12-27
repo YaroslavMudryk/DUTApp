@@ -1,4 +1,7 @@
-﻿namespace DUTApp;
+﻿using Microsoft.Maui.Controls.Hosting;
+using Microsoft.Maui.Hosting;
+
+namespace DUTApp;
 
 public static class MauiProgram
 {

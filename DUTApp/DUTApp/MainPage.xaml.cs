@@ -1,4 +1,7 @@
-﻿namespace DUTApp;
+﻿using Microsoft.Maui.Controls;
+using Microsoft.Maui.Essentials;
+
+namespace DUTApp;
 
 public partial class MainPage : ContentPage
 {
